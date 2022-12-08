@@ -1,0 +1,52 @@
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.exe
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.deps.json
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.runtimeconfig.json
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.dll
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.pdb
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Npgsql.dll
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.csproj.AssemblyReference.cache
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form1.resources
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form2.resources
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form3.resources
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form4.resources
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form5.resources
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form6.resources
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.csproj.GenerateResource.cache
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.AssemblyInfoInputs.cache
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.AssemblyInfo.cs
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.csproj.CopyComplete
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.dll
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\refint\Morental.dll
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.pdb
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.genruntimeconfig.cache
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\ref\Morental.dll
+D:\Kuliah\SEMESTER 3\PBO\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Properties.Resources.resources
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.exe
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.deps.json
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.runtimeconfig.json
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.dll
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Morental.pdb
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form1.resources
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form2.resources
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form3.resources
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form4.resources
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form5.resources
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Form6.resources
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.Properties.Resources.resources
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.AssemblyInfo.cs
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.csproj.CopyComplete
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.dll
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\refint\Morental.dll
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.pdb
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\Morental.genruntimeconfig.cache
+C:\Users\Asus\Downloads\finalproject\finalproject\Morental\Morental\obj\Debug\net6.0-windows\ref\Morental.dll

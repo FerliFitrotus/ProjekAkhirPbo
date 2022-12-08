@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fxsmCmjokLP+c1bytvVZTiWKDCFQ+5XJ4hqqsiKramNMFAGDvV5MmAqS2EsU6cffKQuR7igZdCjsaQRFS3kRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Downloads\\finalproject\\finalproject\\Morental\\Morental\\Morental.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
